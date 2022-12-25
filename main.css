@@ -688,7 +688,7 @@ a {
 .big-screen {
     width: 85%;
     height:1fr;
-    background-image: url(/images/brown.jpg);
+    background-image: url(./images/brown.jpg);
     background-repeat: no-repeat;
     margin-left: -12%;
     background-size: cover;
